@@ -1,5 +1,4 @@
-**Savor Bistro – Restaurant Website**
-Savor Bistro is a fully responsive multi-page restaurant website designed to showcase the restaurant’s story, menu, outlets, new launches, and reservation system.
+**Savor Bistro – Restaurant Website** is a fully responsive multi-page restaurant website designed to showcase the restaurant’s story, menu, outlets, new launches, and reservation system.
 The project focuses on clean UI, structured navigation, and user-friendly design using modern web technologies.
 
 **Features**
@@ -31,5 +30,5 @@ The objective of this project is to:
 3. Run the website:
 Open home.html in any modern browser, or Use VS Code Live Server
 
-**License**
+**License:**
 This project is for **educational purposes only**.
