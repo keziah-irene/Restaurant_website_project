@@ -26,8 +26,7 @@ The objective of this project is to:
 4. Organize a multi-page web project professionally
 
 **How to Run the Project**
-1. Clone the repository:
-git clone https://github.com/your-username/savor-bistro.git
+1. Clone the repository
 2. Open the project folder
 3. Run the website:
 Open home.html in any modern browser, or Use VS Code Live Server
